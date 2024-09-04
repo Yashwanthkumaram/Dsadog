@@ -1,0 +1,25 @@
+[
+    {
+      "id": 1,
+      "title": "two pointers",
+      "description": "Idk the descriptions."
+    },
+    {
+      "id": 2,
+      "title": "Linked Lists",
+      "description": "Yet to come"
+    },
+    {
+      "id": 3,
+      "title": "Trees",
+"description": "Yet to come"    },
+    {
+      "id": 4,
+      "title": "Graphs",
+"description": "Yet to come"    },
+    {
+      "id": 5,
+      "title": "Sorting Algorithms",
+"description": "Yet to come"    }
+  ]
+  
