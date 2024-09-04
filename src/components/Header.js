@@ -51,7 +51,7 @@ import { Link } from 'react-router-dom';
 const Header = () => {
   return (
     <header style={styles.header}>
-      <div style={styles.logo}>😄😔😭💀🥹</div>
+      <div style={styles.logo}>💀💀</div>
       <nav>
         <ul style={styles.navList}>
           <li><Link to="/" style={styles.navItem}>Home</Link></li>
