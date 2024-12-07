@@ -1,25 +1,17 @@
 [
     {
       "id": 1,
-      "title": "two pointers",
-      "description": "Idk the descriptions."
+      "title": "Algorithms for DSA",
+      "description": "Yet to come"
     },
     {
       "id": 2,
-      "title": "Linked Lists",
+      "title": "SQL Cheatsheet",
       "description": "Yet to come"
     },
     {
       "id": 3,
-      "title": "Trees",
-"description": "Yet to come"    },
-    {
-      "id": 4,
-      "title": "Graphs",
-"description": "Yet to come"    },
-    {
-      "id": 5,
-      "title": "Sorting Algorithms",
+      "title": "C++ Cheat sheet",
 "description": "Yet to come"    }
   ]
   

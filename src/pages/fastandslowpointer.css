@@ -48,3 +48,16 @@
     padding: 10px;
   }
   
+
+  .diagram {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%; /* Ensure the section takes the full width */
+  }
+
+  .diagram img {
+    max-width: 100%; /* Ensures the image doesn't exceed the screen width */
+    height: auto; /* Maintain the aspect ratio */
+    object-fit: contain; /* Ensures the image fits nicely */
+  }

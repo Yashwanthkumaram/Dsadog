@@ -4,7 +4,7 @@ import React from 'react';
 const Footer = () => {
   return (
     <footer style={styles.footer}>
-      <p> one day:😄  one week:😔 one month :😭 6 month💀  more than 6 month🥹</p>
+      <p> All rights i dont have</p>
     </footer>
   );
 };

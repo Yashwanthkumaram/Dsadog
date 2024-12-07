@@ -22,7 +22,7 @@ const HomePage = () => {
       </section>
       <section style={styles.topicGrid}>
         <h2>Explore Topics</h2>
-        <div style={styles.grid}>
+        <div style={styles.grid} >
           {topics.map(topic => (
             <TopicCard key={topic.id} id={topic.title} title={topic.title} description={topic.description} />
           ))}
