@@ -10,6 +10,9 @@ const pcapFiles = [
 function Download() {
   return (
     <div className="Download">
+         <a href="https://c06c-2401-4900-631d-4815-1de2-9a87-9590-cd81.ngrok-free.app/" target="_blank" rel="noopener noreferrer">
+          <button className="nav-button">Go to CTF Contest</button>
+        </a>
       <header className="App-header">
         <h1>PCAP File Downloads</h1>
         <div className="card-container">
