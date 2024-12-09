@@ -5,6 +5,7 @@ import HomePage from './pages/HomePage';
 import Fastandslowpointers from './pages/Twopointer';
 import SQLCheatSheet from './pages/SQLCheatsheet';
 import CPlusPlusCheatSheet from './pages/c++CheatSheet';
+import Download from './pages/downloads';
 import Footer from './components/Footer';
 import { useParams } from 'react-router-dom';
 
@@ -42,6 +43,7 @@ function App() {
         <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/topic/:id" element={<TopicPage />} />
+        <Route path="/Downloads" element={<Download />} />
        
         </Routes>
 
